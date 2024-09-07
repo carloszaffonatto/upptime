@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/u-x.zaffonatto.it.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "0.85%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 411,
     "timeWeek": 411,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {
-      "2024-09-07": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
