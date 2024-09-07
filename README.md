@@ -1,4 +1,4 @@
-# [📈 Live Status](https://carloszaffonatto.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 z LABS Live Status](https://carloszaffonatto.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Carlos Zaffonatto](https://www.linkedin.com/in/carloszaffonatto/), powered by [Upptime](https://github.com/upptime/upptime).
 
