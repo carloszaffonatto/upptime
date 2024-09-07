@@ -8,7 +8,7 @@ sites:
   - name: z LABS
     url: https://d.zaffonatto.it
   - name: Plex
-    url: https://u-x.zaffonatto.it/
+    url: https://u-x.zaffonatto.it/web/index.html#!/
 #  - name: IPv6 test
 #    url: 
 #    port: 80
