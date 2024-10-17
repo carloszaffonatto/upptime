@@ -1,7 +1,7 @@
 url: https://vpn-2.zaffonatto.it/
-status: up
-code: 200
-responseTime: 783
-lastUpdated: 2024-10-17T13:28:47.387Z
+status: down
+code: 502
+responseTime: 721
+lastUpdated: 2024-10-17T13:40:47.424Z
 startTime: 2024-09-07T17:09:24.867Z
 generator: Upptime <https://github.com/upptime/upptime>
