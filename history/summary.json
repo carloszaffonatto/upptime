@@ -64,17 +64,17 @@
     "url": "https://vpn-2.zaffonatto.it/",
     "icon": "https://icons.duckduckgo.com/ip3/vpn-2.zaffonatto.it.ico",
     "slug": "oci-vpn",
-    "status": "up",
-    "uptime": "84.11%",
+    "status": "down",
+    "uptime": "84.24%",
     "uptimeDay": "88.40%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "87.23%",
-    "uptimeYear": "84.11%",
-    "time": 1019,
-    "timeDay": 495,
-    "timeWeek": 675,
-    "timeMonth": 772,
-    "timeYear": 1019,
+    "uptimeYear": "84.24%",
+    "time": 1017,
+    "timeDay": 443,
+    "timeWeek": 637,
+    "timeMonth": 765,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-01-07": 167,
       "2024-12-27": 938,
@@ -115,7 +115,7 @@
       "2024-09-30": 375,
       "2024-09-29": 758,
       "2024-09-28": 538,
-      "2024-09-27": 447
+      "2024-09-27": 240
     }
   }
 ]
