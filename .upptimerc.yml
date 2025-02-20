@@ -9,8 +9,6 @@ sites:
     url: https://d.zaffonatto.it
   - name: Plex
     url: https://u-x.zaffonatto.it/web/index.html#!/
-  - name: OCI VPN
-    url: https://vpn-2.zaffonatto.it/
 #  - name: IPv6 test
 #    url: 
 #    port: 80
