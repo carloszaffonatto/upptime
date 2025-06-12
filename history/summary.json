@@ -25,18 +25,20 @@
     "url": "https://d.zaffonatto.it",
     "icon": "https://icons.duckduckgo.com/ip3/d.zaffonatto.it.ico",
     "slug": "z-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 582,
-    "timeWeek": 549,
-    "timeMonth": 556,
-    "timeYear": 587,
-    "dailyMinutesDown": {}
+    "time": 642,
+    "timeDay": 8259,
+    "timeWeek": 2473,
+    "timeMonth": 1036,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Plex",
